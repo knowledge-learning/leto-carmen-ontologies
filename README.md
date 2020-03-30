@@ -1,5 +1,7 @@
 # leto-carmen-ontologies
 
+[![DOI](https://zenodo.org/badge/251322639.svg)](https://zenodo.org/badge/latestdoi/251322639)
+
 This repository contains the final ontologies, in OWL format, for the paper _Specialising a knowledge discovery framework to process technical documents of medicines_.
 
 The folder `data` contains two files:
